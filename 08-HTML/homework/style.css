@@ -1,0 +1,66 @@
+body {
+    background-image:url(images1/fondo.JPG);
+}
+h1{color: #040404;}
+img {width: 400px; height: 220px;}
+#thirdDiv {
+    width: 400px; height: 600px;
+    display: flex;
+    height: 420px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center; 
+    
+}
+
+#spanId{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    font-size: 18px;
+    margin: 50px;
+    border: 500px #566edb;
+    justify-content: center;
+}
+#spanId h2 {
+    color: rgb(10, 34, 34);
+}
+header .divClass {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    height: 420px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center; 
+}
+.divClass h1{
+    font-size: 50px;
+}
+.divClass h3{
+    font-size: 50px;
+    font-weight: 300;
+}
+.divClass h4{
+    font-size: 20px;
+}
+
+header #thirdDiv{
+    background-color: rgb(172, 180, 177);
+    display: flex;
+    height: 600px;
+    width: 95%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center; 
+    padding: 50px;
+    
+}
+header #spanId a{
+    color: #040404;
+    font-size: 25px; 
+    font-family: 'Courier New', Courier, monospace;
+    
+}
